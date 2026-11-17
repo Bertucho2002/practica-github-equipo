@@ -1,1 +1,1 @@
-# practica-github-equipo
+# Proyecto: Sistema Central - Versión Beta
